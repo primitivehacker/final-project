@@ -18,7 +18,7 @@ class LoginForm extends Component {
     //when the component rerenders
     if (!this.props.data.user && nextProps.data.user) {
       //redirect to dashboard
-      hashHistory.push('/dashboard');
+      hashHistory.push('/philosopherIndex');
     }
 
   }

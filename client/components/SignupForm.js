@@ -15,7 +15,7 @@ class SignupForm extends Component {
 
   componentWillUpdate(nextProps) {
     if (nextProps.data.user && !this.props.data.user) {
-      hashHistory.push('/dashboard');
+      hashHistory.push('/philosopherIndex');
     }
   }
 
