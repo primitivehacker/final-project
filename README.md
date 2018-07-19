@@ -1,2 +1,5 @@
 # auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+**Final Project For Philosophy Class**
+
+Client using React
+Server using GraphQL with MongoDB
